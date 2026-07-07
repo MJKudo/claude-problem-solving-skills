@@ -52,3 +52,8 @@ system-analysis-workflow/
     review-prompt.md
     handoff-templates.md
 ```
+
+## ライセンス
+
+両スキルとも [MIT License](LICENSE)。各スキルフォルダにも同一の LICENSE を同梱しているため、フォルダ単位でコピーしてもライセンスが携行される。
+
